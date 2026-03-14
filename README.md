@@ -47,7 +47,7 @@ F1-Score: (Insert the final F1 score calculated in your notebook here)
 Clone this repository:
 
 Bash
-git clone https://github.com/your-username/customer-churn-prediction.git
+git clone https://github.com/TANIYA-14/customer-churn-prediction.git
 Install the required dependencies:
 
 Bash
